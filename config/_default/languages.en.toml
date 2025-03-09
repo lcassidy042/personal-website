@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Liam Cassidy"
+# copyright = "Liam Cassidy"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  description = "Personal website of Liam Cassidy"
+
+[params.author]
+  name = "Liam Cassidy"
+  image = "img/pic.JPG"
+  headline = "A college student and developer from New Jersey"
+  bio = "B.E. Computer Engineering @ Dartmouth College & B.A. Computer Science @ Colby College"
+  links = [
+    { email = "liam.cassidy.ug@dartmouth.edu" },
+    { github = "https://github.com/lcassidy042" },
+    { linkedin = "https://www.linkedin.com/in/lcassidy042" },
+    { researchgate = "https://www.researchgate.net/profile/Liam-Cassidy-9"},
+    { orcid = "https://orcid.org/0009-0006-1281-2809"}
+  ]
